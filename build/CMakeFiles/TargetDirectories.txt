@@ -1,0 +1,4 @@
+/home/spook/workspace/ElevationQml/build/CMakeFiles/ElevationQml.dir
+/home/spook/workspace/ElevationQml/build/CMakeFiles/edit_cache.dir
+/home/spook/workspace/ElevationQml/build/CMakeFiles/rebuild_cache.dir
+/home/spook/workspace/ElevationQml/build/CMakeFiles/ElevationQml_autogen.dir

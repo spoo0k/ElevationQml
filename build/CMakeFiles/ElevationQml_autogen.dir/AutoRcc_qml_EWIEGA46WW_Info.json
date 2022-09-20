@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/spook/workspace/ElevationQml/build/ElevationQml_autogen",
+	"CMAKE_BINARY_DIR" : "/home/spook/workspace/ElevationQml/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/spook/workspace/ElevationQml/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/spook/workspace/ElevationQml",
+	"CMAKE_SOURCE_DIR" : "/home/spook/workspace/ElevationQml",
+	"INCLUDE_DIR" : "/home/spook/workspace/ElevationQml/build/ElevationQml_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/spook/workspace/ElevationQml/ElevationProfileView.qml",
+		"/home/spook/workspace/ElevationQml/main.qml"
+	],
+	"LOCK_FILE" : "/home/spook/workspace/ElevationQml/build/CMakeFiles/ElevationQml_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib64/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/spook/workspace/ElevationQml/build/CMakeFiles/ElevationQml_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/spook/workspace/ElevationQml/qml.qrc",
+	"VERBOSITY" : 0
+}
